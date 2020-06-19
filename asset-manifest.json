@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/hoopscript.github.io/static/css/main.5f361e03.chunk.css",
+    "main.js": "/hoopscript.github.io/static/js/main.c3a1adb6.chunk.js",
+    "main.js.map": "/hoopscript.github.io/static/js/main.c3a1adb6.chunk.js.map",
+    "runtime-main.js": "/hoopscript.github.io/static/js/runtime-main.5b5bba85.js",
+    "runtime-main.js.map": "/hoopscript.github.io/static/js/runtime-main.5b5bba85.js.map",
+    "static/js/2.723ea6b1.chunk.js": "/hoopscript.github.io/static/js/2.723ea6b1.chunk.js",
+    "static/js/2.723ea6b1.chunk.js.map": "/hoopscript.github.io/static/js/2.723ea6b1.chunk.js.map",
+    "index.html": "/hoopscript.github.io/index.html",
+    "precache-manifest.d528998543864a3e250b619365180aa1.js": "/hoopscript.github.io/precache-manifest.d528998543864a3e250b619365180aa1.js",
+    "service-worker.js": "/hoopscript.github.io/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/hoopscript.github.io/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.723ea6b1.chunk.js.LICENSE.txt": "/hoopscript.github.io/static/js/2.723ea6b1.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/hoopscript.github.io/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5b5bba85.js",
+    "static/js/2.723ea6b1.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.c3a1adb6.chunk.js"
+  ]
+}

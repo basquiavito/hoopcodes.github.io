@@ -12,4 +12,4 @@ function homepage(){
   )
 }
 
-homepage
+export default homepage
